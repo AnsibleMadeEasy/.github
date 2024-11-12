@@ -13,21 +13,8 @@ Welcome to the Ansible Made Easy GitHub organization!
 
 **Key Repositories:**
 
-* **[Project Name]:** [Brief description of the project and its purpose]
-* **[Project Name]:** [Brief description of the project and its purpose]
-* **[Project Name]:** [Brief description of the project and its purpose] 
+* **[Ansible Training Session](https://github.com/AnsibleMadeEasy/Ansible-Training-Session.git):** This project is designed to provide you with a development environment utilizing containers to simulate usage in a production environment. 
+* **[Ansible Pull](https://github.com/AnsibleMadeEasy/ansible-pull.git):** This role provides a means for deploying the Ansible pull mechanism to target systems. This gives you a 'fire and forget' option to configuration management.
+* **[KRB5](https://github.com/AnsibleMadeEasy/krb5.git):** This roles adds functionality to your deployment to ensure that you can configure KRB5 on the client system to the Kerberos Distribution server. 
 
-**Code of Conduct:**
-
-* [Link to the organization's Code of Conduct document] - Please review our Code of Conduct before participating in our community.
-
-**Contact Us:**
-
-* **Email:** [Organization email address] 
-* **Discussion Forum:** [Link to forum or communication channel] 
-
-**Contributing to the Readme:**
-
-* Feel free to suggest improvements to this Readme by creating an issue in the ".github" repository. 
-
-**Let's build great things together!** 
+**Happy Automating!** 
